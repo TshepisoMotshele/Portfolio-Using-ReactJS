@@ -1,4 +1,4 @@
-.index {
+.home {
     background-color: transparent;
     display: flex;
     flex-direction: row;
@@ -6,23 +6,23 @@
     width: 100%;
   }
   
-  .index .home-wrapper {
+  .home .home-wrapper {
     height: 1024px;
     width: 1440px;
   }
   
-  .index .home {
+  .home .home {
     background-color: #7da7b4;
     height: 1024px;
   }
   
-  .index .overlap-group {
+  .home .overlap-group {
     height: 1024px;
     position: relative;
     width: 1440px;
   }
   
-  .index .home-elements {
+  .home .home-elements {
     height: 1024px;
     left: 199px;
     position: absolute;
@@ -30,7 +30,7 @@
     width: 1241px;
   }
   
-  .index .rectangle {
+  .home .rectangle {
     background-color: #ffebe0;
     height: 1024px;
     left: 0;
@@ -39,7 +39,7 @@
     width: 301px;
   }
   
-  .index .text-wrapper {
+  .home .text-wrapper {
     color: #000000;
     font-family: "Inter", Helvetica;
     font-size: 24px;
@@ -53,7 +53,7 @@
     width: 158px;
   }
   
-  .index .div {
+  .home .div {
     color: #000000;
     font-family: "Inter", Helvetica;
     font-size: 24px;
@@ -67,7 +67,7 @@
     width: 158px;
   }
   
-  .index .text-wrapper-2 {
+  .home .text-wrapper-2 {
     color: #000000;
     font-family: "Inter", Helvetica;
     font-size: 24px;
@@ -81,7 +81,7 @@
     width: 107px;
   }
   
-  .index .vector {
+  .home .vector {
     height: 48px;
     left: 69px;
     position: absolute;
@@ -89,7 +89,7 @@
     width: 51px;
   }
   
-  .index .text-wrapper-3 {
+  .home .text-wrapper-3 {
     color: #ff1569;
     font-family: "Inter", Helvetica;
     font-size: 24px;
@@ -103,7 +103,7 @@
     width: 71px;
   }
   
-  .index .text-wrapper-4 {
+  .home .text-wrapper-4 {
     color: #000000;
     font-family: "Inter", Helvetica;
     font-size: 24px;
@@ -117,7 +117,7 @@
     width: 73px;
   }
   
-  .index .social-icons {
+  .home .social-icons {
     height: 48px !important;
     left: 169px !important;
     position: absolute !important;
@@ -125,7 +125,7 @@
     width: 51px !important;
   }
   
-  .index .home-svgrepo-com {
+  .home .home-svgrepo-com {
     height: 60px;
     left: 54px;
     position: absolute;
@@ -133,7 +133,7 @@
     width: 64px;
   }
   
-  .index .about-information {
+  .home .about-information {
     height: 60px;
     left: 54px;
     position: absolute;
@@ -141,7 +141,7 @@
     width: 64px;
   }
   
-  .index .portfolio-svgrepo {
+  .home .portfolio-svgrepo {
     height: 60px;
     left: 54px;
     position: absolute;
@@ -149,7 +149,7 @@
     width: 64px;
   }
   
-  .index .education-svgrepo {
+  .home .education-svgrepo {
     height: 60px;
     left: 54px;
     position: absolute;
@@ -157,7 +157,7 @@
     width: 64px;
   }
   
-  .index .location-place-pin {
+  .home .location-place-pin {
     height: 60px;
     left: 54px;
     position: absolute;
@@ -165,7 +165,7 @@
     width: 64px;
   }
   
-  .index .element {
+  .home .element {
     height: 141px;
     left: 57px;
     object-fit: cover;
@@ -174,7 +174,7 @@
     width: 184px;
   }
   
-  .index .img {
+  .home .img {
     height: 8px;
     left: 32px;
     position: absolute;
@@ -182,7 +182,7 @@
     width: 7px;
   }
   
-  .index .vector-2 {
+  .home .vector-2 {
     height: 18px;
     left: 27px;
     position: absolute;
@@ -190,7 +190,7 @@
     width: 18px;
   }
   
-  .index .p {
+  .home .p {
     color: #000000;
     font-family: "Inter", Helvetica;
     font-size: 12px;
